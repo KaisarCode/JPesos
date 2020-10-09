@@ -1,0 +1,22 @@
+{
+  "name": "jpesos",
+  "version": "2.0.10",
+  "description": "Simplest DOM manipulation library with optional prefixed selectors",
+  "main": "jpesos.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/JPesos.git"
+  },
+  "keywords": [
+    "jpesos",
+    "jquery",
+    "dom",
+    "dom manipulation"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/JPesos/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/JPesos"
+}
