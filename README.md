@@ -1,5 +1,5 @@
 # JPesos
-Simplest DOM manipulation library with optional prefixed selectors
+[Browser] DOM manipulation library.
 
 ## Documentation
 TODO - I promise
