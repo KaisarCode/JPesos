@@ -39,6 +39,10 @@ function jPesos(opts) {
     };
     
     // Config
+    if (is.str(opts)) {
+    var pfx = opts;
+    opts = {};
+    opts.pfx = pfx; }
     opts = opts || {};
     // Prefix
     opts.pfx = opts.pfx || '';
