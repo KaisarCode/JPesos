@@ -1,6 +1,6 @@
 {
   "name": "jpesos",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Simplest DOM manipulation library with optional prefixed selectors",
   "main": "jpesos.js",
   "repository": {
